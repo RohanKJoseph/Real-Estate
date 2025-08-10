@@ -41,7 +41,7 @@ const Header = () => {
             <li className='hidden md:inline-block mx-2 text-slate-700 hover:text-slate-900 transition duration-200'>
                 <a href="/profile">Profile</a>
             </li>
-            </Link>
+            </Link> 
         </ul>
         </div>
         
